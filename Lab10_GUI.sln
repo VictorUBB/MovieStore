@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_GUI", "Lab10_GUI\Lab10_GUI.vcxproj", "{8B11BF42-73A8-414E-ABD2-40E14D6FE35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B11BF42-73A8-414E-ABD2-40E14D6FE35A}.Debug|x64.ActiveCfg = Debug|x64
+		{8B11BF42-73A8-414E-ABD2-40E14D6FE35A}.Debug|x64.Build.0 = Debug|x64
+		{8B11BF42-73A8-414E-ABD2-40E14D6FE35A}.Release|x64.ActiveCfg = Release|x64
+		{8B11BF42-73A8-414E-ABD2-40E14D6FE35A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CB0FD6-CD09-4B13-B0B6-1342F9EE1D6F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>Lab10_GUIClass</class>
+ <widget class="QWidget" name="Lab10_GUIClass" >
+  <property name="objectName" >
+   <string notr="true">Lab10_GUIClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Lab10_GUI</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Lab10_GUI.qrc"/>
+ </resources>
+ <connections/>
+</UI>
